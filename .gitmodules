@@ -1,0 +1,3 @@
+[submodule "UWAM_PedalBox/Inc/WAL_Libraries"]
+	path = UWAM_PedalBox/Inc/WAL_Libraries
+	url = https://github.com/TomPaynter/WAL_Libraries.git
